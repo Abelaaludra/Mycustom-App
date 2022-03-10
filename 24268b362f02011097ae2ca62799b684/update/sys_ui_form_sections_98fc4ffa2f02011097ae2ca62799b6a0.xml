@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="98fc4ffa2f02011097ae2ca62799b6a0" sys_domain="global" table="x_771336_my_custom_my_custom_table_app" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-09 09:47:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cfc4ffa2f02011097ae2ca62799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_771336_my_custom_my_custom_table_app" name="x_771336_my_custom_my_custom_table_app" sys_domain="global" view="Default view">98fc4ffa2f02011097ae2ca62799b6a0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_771336_my_custom_my_custom_table_app" sys_domain="global" view="Default view">0aebc37a2f02011097ae2ca62799b691</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-09 09:47:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-09 09:47:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18fc4ffa2f02011097ae2ca62799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_771336_my_custom_my_custom_table_app" name="x_771336_my_custom_my_custom_table_app" sys_domain="global" view="Default view">98fc4ffa2f02011097ae2ca62799b6a0</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_771336_my_custom_my_custom_table_app" sys_domain="global" view="Default view">d8fc4ffa2f02011097ae2ca62799b616</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-09 09:47:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_771336_my_custom_my_custom_table_app</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-09 09:47:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98fc4ffa2f02011097ae2ca62799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_771336_my_custom_my_custom_table_app</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My custom App" source="x_771336_my_custom">24268b362f02011097ae2ca62799b684</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My custom App">24268b362f02011097ae2ca62799b684</sys_scope>
+            <sys_update_name>sys_ui_form_sections_98fc4ffa2f02011097ae2ca62799b6a0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-09 09:47:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
